@@ -26,7 +26,10 @@ For this project, I was interested in using the Craiglist used car data to under
 ### Included Files
 The files included in the repository include:
 1. **used_cars.ipynb** - Jupyter notebook showcasing the work to address the questions above. This notebook is exploratory in analysing the data to address the questions posed above.
-2. **README.md** - this README doc.
+2. **used_cars.html** - HTML version of Jupyter notebook.
+3. **README.md** - this README doc.
+
+- **Note:** Data file exceeds github limit. It can be downloaded from the url referenced in the introduction.
 
 ### References
 - **Medium Article:** Plot maps from the US Census Bureau using Geopandas and Contextily in Python.
