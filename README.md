@@ -32,6 +32,9 @@ The files included in the repository include:
 
 - **Note:** Data file exceeds github limit. It can be downloaded from the url referenced in the introduction.
 
+### Blog Post
+Blog article titled "**Can you teach an old dog new tricks?**" is posted on Medium at https://medium.com/@marc.j.mascaro/can-you-teach-an-old-dog-new-tricks-6fdc96bbedac.
+
 ### References
 - **Medium Article:** Plot maps from the US Census Bureau using Geopandas and Contextily in Python.
     - **Available at:** https://medium.com/@jl_ruiz/plot-maps-from-the-us-census-bureau-using-geopandas-and-contextily-in-python-df787647ef77
