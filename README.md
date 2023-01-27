@@ -26,6 +26,7 @@ For this project, I was interested in using the Craiglist used car data to under
 ### Included Files
 The files included in the repository include:
 1. **used_cars.ipynb** - Jupyter notebook showcasing the work to address the questions above. This notebook is exploratory in analysing the data to address the questions posed above.
+2. **used_cars.html** - HTML version of Jupyter notebook.
 2. **README.md** - this README doc.
 
 ### References
